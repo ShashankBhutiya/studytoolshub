@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "4411647d-6cb1-4025-8fcc-2ba1b524f4ee",
+    "name": "Admin User",
+    "email": "admin@studytoolshub.com",
+    "password": "$2b$12$3L0dKG937nHIV83YSim6aeqwEFJ7wejpVmBFDdl/6LDkqqPkC/0Fm",
+    "role": "ADMIN",
+    "subscriptionStatus": "ACTIVE",
+    "preparingFor": "BOTH",
+    "razorpayCustomerId": "cust_admin",
+    "trialStartDate": "2025-06-01T14:12:42.016Z",
+    "subscriptionEndDate": "2026-06-01T14:12:42.016Z",
+    "createdAt": "2025-06-01T14:12:42.016Z",
+    "updatedAt": "2025-06-01T14:12:42.016Z"
+  },
+  {
+    "_id": "ac9e9af0-2964-4cfb-9807-daaa3c9e16d1",
+    "name": "Shashank Bhutiya",
+    "email": "shashank10bhutiya@gmail.com",
+    "password": "$2b$12$OIzUEpydB8NMiUv4JwK5QeHpnZG/JViSDeQ1JLj4B9Eb/SBUEsLUK",
+    "preparingFor": "BOTH",
+    "razorpayCustomerId": "cust_1748787220659",
+    "role": "USER",
+    "subscriptionStatus": "TRIAL",
+    "trialStartDate": "2025-06-01T14:13:40.659Z",
+    "createdAt": "2025-06-01T14:13:40.660Z",
+    "updatedAt": "2025-06-01T14:13:40.660Z"
+  },
+  {
+    "_id": "c06a38ad-85a2-4178-b202-8c921305737d",
+    "name": "Abhi Gupta Dost",
+    "email": "Shashank@gmail.com",
+    "password": "$2b$12$AX6sl3XNdTUPlAK5/L5Av.o38RBL8DGlSIPlBpsikbQ.Y8wPThzyu",
+    "preparingFor": "BOTH",
+    "razorpayCustomerId": "cust_1748799565273",
+    "role": "USER",
+    "subscriptionStatus": "TRIAL",
+    "trialStartDate": "2025-06-01T17:39:25.273Z",
+    "createdAt": "2025-06-01T17:39:25.274Z",
+    "updatedAt": "2025-06-01T17:39:25.274Z"
+  }
+]

@@ -1,0 +1,1340 @@
+[
+  {
+    "_id": "tool-1",
+    "name": "Physics Wallah",
+    "description": "Comprehensive video lectures and study material for JEE and NEET preparation with affordable pricing.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["VIDEO_LEARNING", "JEE", "NEET"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-2",
+    "name": "Unacademy",
+    "description": "India's largest online learning platform with live classes from top educators for competitive exams.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["VIDEO_LEARNING", "LIVE_CLASSES", "JEE", "NEET"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-3",
+    "name": "Allen Test My Prep",
+    "description": "Online test series and practice papers from Allen Career Institute with detailed performance analysis.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["PRACTICE_TESTS", "MOCK_TESTS", "JEE", "NEET"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-4",
+    "name": "Notion",
+    "description": "All-in-one workspace for notes, tasks, databases, and collaboration - perfect for organizing study materials.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["NOTE_TAKING", "STUDY_PLANNER", "COLLABORATION"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-5",
+    "name": "Anki",
+    "description": "Powerful flashcard app using spaced repetition algorithm for effective memorization of formulas and concepts.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["FLASHCARDS", "FORMULA_SHEETS", "MEMORIZATION"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-6",
+    "name": "Wolfram Alpha",
+    "description": "Computational knowledge engine for solving complex math and science problems with step-by-step solutions.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["PROBLEM_SOLVING", "CALCULATORS", "MATHEMATICS"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-7",
+    "name": "Forest",
+    "description": "Gamified focus app that helps students stay concentrated by growing virtual trees while studying.",
+    "platforms": ["mobile"],
+    "bestFor": ["FOCUS_PRODUCTIVITY", "TIME_MANAGEMENT"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-8",
+    "name": "BYJU'S",
+    "description": "Comprehensive learning app with interactive video lessons and personalized learning journeys for JEE/NEET.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["VIDEO_LEARNING", "PRACTICE_TESTS", "JEE", "NEET"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-9",
+    "name": "Embibe",
+    "description": "AI-powered learning platform offering personalized practice sessions and detailed exam analysis.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["PRACTICE_TESTS", "EXAM_ANALYSIS", "JEE", "NEET"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-10",
+    "name": "Obsidian",
+    "description": "Knowledge management app with powerful linking features for creating interconnected study notes.",
+    "platforms": ["desktop", "mobile"],
+    "bestFor": ["NOTE_TAKING", "KNOWLEDGE_MANAGEMENT"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-11",
+    "name": "Khan Academy",
+    "description": "Free educational platform with comprehensive courses in math, science, and test preparation.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["VIDEO_LEARNING", "PROBLEM_SOLVING", "FREE_RESOURCES"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-12",
+    "name": "Todoist",
+    "description": "Task management app for organizing study schedules, assignments, and exam preparation plans.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["STUDY_PLANNER", "TIME_MANAGEMENT", "PRODUCTIVITY"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-13",
+    "name": "Grammarly",
+    "description": "AI-powered writing assistant for improving essays, assignments, and written communication.",
+    "platforms": ["web", "desktop", "mobile"],
+    "bestFor": ["WRITING_ASSISTANCE", "LANGUAGE_IMPROVEMENT"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-14",
+    "name": "Photomath",
+    "description": "Camera-based math solver that shows step-by-step solutions for mathematical problems.",
+    "platforms": ["mobile"],
+    "bestFor": ["PROBLEM_SOLVING", "MATHEMATICS", "QUICK_SOLUTIONS"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-15",
+    "name": "Vedantu",
+    "description": "Live online tutoring platform with interactive classes and instant doubt resolution.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["LIVE_CLASSES", "DOUBT_CLEARING", "JEE", "NEET"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-16",
+    "name": "Quizlet",
+    "description": "Study tool with flashcards, games, and practice tests created by students and teachers worldwide.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["FLASHCARDS", "COLLABORATIVE_LEARNING", "MEMORIZATION"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-17",
+    "name": "Desmos Graphing Calculator",
+    "description": "Advanced online graphing calculator for visualizing mathematical concepts and functions.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["CALCULATORS", "MATHEMATICS", "VISUALIZATION"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-18",
+    "name": "Pomodoro Timer",
+    "description": "Time management tool using the Pomodoro Technique for focused study sessions with regular breaks.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["FOCUS_PRODUCTIVITY", "TIME_MANAGEMENT"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-19",
+    "name": "Google Keep",
+    "description": "Simple note-taking app with color coding, reminders, and collaboration features for study notes.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["NOTE_TAKING", "QUICK_NOTES", "COLLABORATION"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-20",
+    "name": "Toppr",
+    "description": "Adaptive learning platform with personalized study plans and comprehensive test preparation.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["VIDEO_LEARNING", "PRACTICE_TESTS", "JEE", "NEET"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-21",
+    "name": "Microsoft OneNote",
+    "description": "Digital notebook for organizing study materials with handwriting support and multimedia notes.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["NOTE_TAKING", "ORGANIZATION", "MULTIMEDIA_NOTES"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-22",
+    "name": "Discord Study Servers",
+    "description": "Community platform with dedicated study servers for group discussions and peer learning.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["COLLABORATION", "STUDY_GROUPS", "PEER_LEARNING"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-23",
+    "name": "Chegg Study",
+    "description": "Homework help platform with textbook solutions, expert Q&A, and step-by-step explanations.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["PROBLEM_SOLVING", "DOUBT_CLEARING", "TEXTBOOK_SOLUTIONS"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-24",
+    "name": "Meritnation",
+    "description": "CBSE-focused learning platform with study material, sample papers, and NCERT solutions.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["STUDY_MATERIAL", "NCERT_SOLUTIONS", "CBSE"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-25",
+    "name": "Exam Fear",
+    "description": "Free video lectures covering complete syllabus for JEE and NEET with conceptual clarity.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["VIDEO_LEARNING", "FREE_RESOURCES", "JEE", "NEET"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025    -06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-26",
+    "name": "Coursera",
+    "description": "Online courses from top universities and organizations, including JEE and NEET preparation.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["VIDEO_LEARNING", "CERTIFICATIONS", "JEE", "NEET"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-27",
+    "name": "Quizizz",
+    "description": "Interactive quiz platform for creating and playing quizzes on various subjects, including JEE and NEET.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["QUIZZES", "INTERACTIVE_LEARNING", "JEE", "NEET"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-28",
+    "name": "Google Scholar",
+    "description": "Academic search engine for finding scholarly articles, theses, books, and conference papers.",
+    "platforms": ["web"],
+    "bestFor": ["RESEARCH", "ACADEMIC_PAPERS", "SCHOLARLY_ARTICLES"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-29",
+    "name": "Slack Study Groups",
+    "description": "Collaboration platform for creating study groups, sharing resources, and discussing topics.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["COLLABORATION", "STUDY_GROUPS", "RESOURCE_SHARING"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-30",
+    "name": "Trello",
+    "description": "Visual project management tool for organizing study tasks, assignments, and exam preparation.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["STUDY_PLANNER", "TASK_MANAGEMENT", "VISUAL_ORGANIZATION"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "tool-31",
+    "name": "ClickUp",
+    "description": "Powerful all-in-one productivity and project management tool for organizing study schedules, tasks, and exam plans with advanced features like goal tracking and time management.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["STUDY_PLANNER", "TASK_MANAGEMENT", "ADVANCED_TRACKING", "GOAL_MANAGEMENT"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "pros": "Dynamic, provide advanced features for productivity and project management, highly customizable, integrates with various tools.",
+    "cons": "Can be overwhelming for new users due to its extensive features, may require a learning curve to utilize effectively, some advanced features are only available in paid plans.",
+    "pricing": "Free plan available with limited features, paid plans start at $5 per user per month with additional features and storage."
+  },
+  {
+    "_id": "tool-32",
+    "name": "Evernote",
+    "description": "Popular note-taking app with powerful organization features, web clipping, and multimedia support for study notes.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["NOTE_TAKING", "ORGANIZATION", "MULTIMEDIA_NOTES"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z",
+    "pros": "Premium Feel, Robust organization features, web clipping, supports multimedia notes, good search functionality.",
+    "cons": "Free plan has limited features, premium features require a subscription, can be expensive compared to alternatives, few questions on the web.",
+    "pricing": "Free plan available with limited features, premium plans start at $7.99 per month with additional features and storage."
+  },
+  {
+    "_id": "tool-33",
+    "name": "Miro",
+    "description": "Collaborative online whiteboard platform for brainstorming, mind mapping, and visualizing study concepts with team members.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["COLLABORATION", "VISUALIZATION", "BRAINSTORMING"],
+    "createdAt": "2025-06-01T00:00:00.000Z",
+    "updatedAt": "2025-06-01T00:00:00.000Z",
+    "logo": "path-to-possiblely-the-logo-of-the-tool",
+    "pros": "Great for visual collaboration, supports various content types, real-time editing, integrates with many tools.",
+    "cons": "Can be overwhelming for new users, some advanced features require a learning curve, free plan has limited features."
+  },
+  {
+    "_id": "tool-34",
+    "name": "edX",
+    "description": "Massive Open Online Course (MOOC) provider founded by Harvard and MIT, offering professional certificates, MicroMasters, and full degrees.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["VIDEO_LEARNING", "MOCK_TESTS", "REFERENCE_BOOKS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.edx.org/sites/default/files/edx-logo-marketing.png",
+    "pros": [
+      "Courses from top-tier universities",
+      "Verified certificates and MicroMasters credentials",
+      "Audit option to access course material for free",
+      "High academic rigor and peer-reviewed assignments"
+    ],
+    "cons": [
+      "Credential tracks often have significant fees",
+      "Course start dates can be fixed rather than self-paced",
+      "Limited interactivity in free audit mode"
+    ]
+  },
+  {
+    "_id": "tool-35",
+    "name": "Udemy",
+    "description": "Marketplace for affordable video courses on a wide range of topics—tech, business, arts, personal development—taught by individual instructors.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["VIDEO_LEARNING", "PRACTICE_TESTS", "QUIZ_APPS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg",
+    "pros": [
+      "Huge library of affordable courses",
+      "Frequent sales and discounts",
+      "Lifetime access to purchased courses",
+      "Courses on niche and emerging topics"
+    ],
+    "cons": [
+      "Quality varies widely between instructors",
+      "No formal accreditation",
+      "Some courses become outdated quickly"
+    ]
+  },
+  {
+    "_id": "tool-36",
+    "name": "Skillshare",
+    "description": "Subscription-based learning community offering video classes in creative fields (design, writing, photography) as well as business and technology.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["VIDEO_LEARNING", "REFERENCE_BOOKS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://static.skillshare.com/static/images/skillshare-logo.png",
+    "pros": [
+      "Wide focus on creative and practical topics",
+      "Project-based approach with community feedback",
+      "Affordable subscription model",
+      "Regularly updated course library"
+    ],
+    "cons": [
+      "Less academic rigor for technical subjects",
+      "Not all courses are led by top experts",
+      "No accredited certificates"
+    ]
+  },
+  {
+    "_id": "tool-37",
+    "name": "MasterClass",
+    "description": "Premium online education platform where celebrities and industry leaders (e.g., Gordon Ramsay, Neil Gaiman) teach video classes in arts, cooking, writing, and more.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["VIDEO_LEARNING", "REFERENCE_BOOKS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://static-masterclass.imgix.net/shared/images/logos/masterclass-logo-dark.svg",
+    "pros": [
+      "Taught by world-renowned experts",
+      "High production quality videos",
+      "Broad creative and lifestyle topics",
+      "Inspiring and engaging teaching style"
+    ],
+    "cons": [
+      "Subscription cost is relatively high",
+      "Less focus on academic subjects",
+      "No interactive assessments or quizzes"
+    ]
+  },
+  {
+    "_id": "tool-38",
+    "name": "Joplin",
+    "description": "Open-source note-taking and to-do application with end-to-end encryption, markdown support, and sync across devices.",
+    "platforms": ["desktop", "mobile"],
+    "bestFor": ["NOTE_TAKING", "NOTE_MAKING", "CLASS_NOTES", "RESOURCE_AGGREGATORS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://joplinapp.org/images/joplin-icon.svg",
+    "pros": [
+      "Open-source and free",
+      "Supports end-to-end encryption",
+      "Offline functionality with local storage",
+      "Markdown-based with plugin support"
+    ],
+    "cons": [
+      "User interface is utilitarian and less polished",
+      "Sync setup can be complex for non-technical users",
+      "Limited built-in collaboration features"
+    ]
+  },
+  {
+    "_id": "tool-39",
+    "name": "Mathway",
+    "description": "Online and mobile tool that solves a wide range of math problems—algebra, calculus, statistics—and provides step-by-step solutions.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["PROBLEM_SOLVING", "HOMEWORK_HELP", "REVISION_TOOLS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://mathway.com/assets/img/logo.png",
+    "pros": [
+      "Solves problems across multiple mathematical domains",
+      "Detailed, step-by-step solutions available",
+      "User-friendly interface",
+      "Built-in graphing functionality"
+    ],
+    "cons": [
+      "Subscription required to view full step-by-step solutions",
+      "Solutions can be too procedural without conceptual insights",
+      "Occasional errors for complex problems"
+    ]
+  },
+  {
+    "_id": "tool-40",
+    "name": "Symbolab",
+    "description": "Math solver and calculator providing step-by-step solutions for algebra, calculus, trigonometry, and statistics problems.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["PROBLEM_SOLVING", "HOMEWORK_HELP", "REVISION_TOOLS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.symbolab.com/images/symbolab-logo.svg",
+    "pros": [
+      "Detailed, step-by-step solutions",
+      "Covers a wide range of math topics",
+      "Graphing calculator built-in",
+      "Clean, intuitive interface"
+    ],
+    "cons": [
+      "Full step-by-step solutions require subscription",
+      "Can be slower for very complex problems",
+      "Occasional minor errors in symbolic manipulation"
+    ]
+  },
+  {
+    "_id": "tool-41",
+    "name": "Zoom",
+    "description": "Video conferencing platform widely used for virtual classrooms, webinars, and remote collaboration with features like breakout rooms and screen sharing.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["LIVE_CLASSES", "COLLABORATION_TOOLS", "DOUBT_SOLVING"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://assets.zoom.us/docs/image.png",
+    "pros": [
+      "High-quality video and audio",
+      "Supports large participant counts and breakout rooms",
+      "Screen sharing, whiteboard, and annotation features",
+      "Reliable performance on varied network conditions"
+    ],
+    "cons": [
+      "Requires paid plan for extended meetings with many participants",
+      "Security concerns (meeting bombing) if not configured properly",
+      "Occasional bandwidth issues on poor connections"
+    ]
+  },
+  {
+    "_id": "tool-42",
+    "name": "Google Meet",
+    "description": "Video conferencing solution integrated with Google Workspace, offering seamless scheduling via Calendar and real-time captions.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["LIVE_CLASSES", "COLLABORATION_TOOLS", "DOUBT_SOLVING"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://ssl.gstatic.com/meet/google_meet_bell_icon.svg",
+    "pros": [
+      "Native integration with Google Workspace (Calendar, Gmail)",
+      "Auto captions and live caption translations",
+      "Browser-based—no downloads required for most users",
+      "Strong security by default"
+    ],
+    "cons": [
+      "Lacks some advanced features compared to competitors (e.g., breakout rooms until recently)",
+      "Video quality can degrade with many participants",
+      "Limited customization of meeting layout"
+    ]
+  },
+  {
+    "_id": "tool-43",
+    "name": "Microsoft Teams",
+    "description": "Unified collaboration platform combining chat, video conferencing, file storage, and application integration via Microsoft 365.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["LIVE_CLASSES", "COLLABORATION_TOOLS", "TIME_MANAGEMENT"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://cdn.iconscout.com/icon/free/png-256/microsoft-teams-3628579-3030156.png",
+    "pros": [
+      "Deep integration with Microsoft 365 apps (Word, Excel, OneNote)",
+      "Persistent chat and threaded conversations",
+      "Built-in file storage and collaboration via SharePoint",
+      "Large meeting support with live captions and recording"
+    ],
+    "cons": [
+      "Steeper learning curve for new users",
+      "Consumes significant memory and CPU resources",
+      "Interface can feel cluttered with many features"
+    ]
+  },
+  {
+    "_id": "tool-44",
+    "name": "LiveWebinar",
+    "description": "Interactive online webinar platform designed for education and training, offering polls, Q&A, whiteboard, and screen sharing.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["LIVE_CLASSES", "DOUBT_SOLVING", "COLLABORATION_TOOLS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://cdn.livewebinar.com/assets/img/logo.png",
+    "pros": [
+      "Interactive features—polls, Q&A, and live chat",
+      "Built-in whiteboard and screen sharing",
+      "No-download browser-based experience",
+      "Analytics on attendee engagement"
+    ],
+    "cons": [
+      "Free tier has limited attendee capacity",
+      "Advanced features (branding, integrations) require paid plans",
+      "Mobile experience can be less stable than desktop"
+    ]
+  },
+  {
+    "_id": "tool-45",
+    "name": "Doubtnut",
+    "description": "Mobile app tailored for Indian curriculum that lets students snap questions and receive video-based solutions and step-by-step explanations.",
+    "platforms": ["mobile"],
+    "bestFor": ["DOUBT_SOLVING", "HOMEWORK_HELP", "REVISION_TOOLS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://doubtnut-static.s3.ap-south-1.amazonaws.com/logos/doubtnut-logo.png",
+    "pros": [
+      "Instant video solutions for snapped questions",
+      "Extensive coverage of CBSE, ICSE, and various state boards",
+      "Free access to many resources",
+      "Interactive practice quizzes"
+    ],
+    "cons": [
+      "Primarily focused on Indian curricula—limited global applicability",
+      "Requires internet connectivity for video playback",
+      "Quality varies by topic and chapter"
+    ]
+  },
+  {
+    "_id": "tool-46",
+    "name": "Socratic by Google",
+    "description": "AI-powered mobile app that helps students find answers and explanations across subjects by snapping photos of questions or typing queries.",
+    "platforms": ["mobile"],
+    "bestFor": ["DOUBT_SOLVING", "HOMEWORK_HELP", "REFERENCE_BOOKS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.gstatic.com/eduv2/static/socratic/socratic-logo.png",
+    "pros": [
+      "AI-driven explanations with context from the web",
+      "Supports scanning and voice input",
+      "Covers math, science, literature, and more",
+      "Completely free with no ads"
+    ],
+    "cons": [
+      "May provide generic web-based explanations rather than tailored lessons",
+      "Limited depth for advanced topics",
+      "Requires stable internet for best results"
+    ]
+  },
+  {
+    "_id": "tool-47",
+    "name": "Brainly",
+    "description": "Crowd-sourced homework help platform where students ask questions and receive answers from peers and subject-matter experts.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["DOUBT_SOLVING", "HOMEWORK_HELP", "COMMON_DISCUSSION_FORUM"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://brainly.com/static/images/brainly-logo.svg",
+    "pros": [
+      "Large community of students and experts",
+      "Quick responses on common homework questions",
+      "Supports many subjects and grade levels",
+      "Gamified points system encourages participation"
+    ],
+    "cons": [
+      "Quality of answers can vary widely",
+      "Occasional incorrect or incomplete solutions",
+      "Free tier has ads—subscription removes ads and unlocks more features"
+    ]
+  },
+  {
+    "_id": "tool-48",
+    "name": "Quora",
+    "description": "Q&A platform where users post questions and receive answers from a wide community, including experts, educators, and enthusiasts.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["DOUBT_SOLVING", "COMMON_DISCUSSION_FORUM", "RESOURCE_AGGREGATORS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://d2gkvxz4u5d4xp.cloudfront.net/misc/q_logo.png",
+    "pros": [
+      "Vast, diverse community with varied expertise",
+      "Long-form, detailed answers and explanations",
+      "Topic-based feeds help find relevant Q&A",
+      "Free and ad-supported"
+    ],
+    "cons": [
+      "Answer quality can be inconsistent",
+      "Upvote-based ranking can promote popularity over accuracy",
+      "Lacks structured educational pathways"
+    ]
+  },
+  {
+    "_id": "tool-49",
+    "name": "PrepAI",
+    "description": "AI-powered platform for generating, assigning, and taking practice tests and quizzes in various subjects with analytics and progress tracking.",
+    "platforms": ["web"],
+    "bestFor": ["PRACTICE_TESTS", "MOCK_TESTS", "QUIZ_APPS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://prepai.io/assets/images/logo.png",
+    "pros": [
+      "Automatic generation of diverse question sets using AI",
+      "Real-time performance analytics and feedback",
+      "Customizable difficulty levels",
+      "Integrations for LMS and other platforms"
+    ],
+    "cons": [
+      "Subscription required for advanced analytics",
+      "Limited subject coverage compared to large exam prep sites",
+      "Some generated questions may need manual review"
+    ]
+  },
+  {
+    "_id": "tool-50",
+    "name": "Testportal",
+    "description": "Online assessment platform offering customizable tests, quizzes, and surveys with detailed analytics and reporting for educators and trainers.",
+    "platforms": ["web"],
+    "bestFor": ["PRACTICE_TESTS", "MOCK_TESTS", "QUIZ_APPS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://testportal.io/assets/img/logo.png",
+    "pros": [
+      "Robust analytics dashboard for performance tracking",
+      "Customizable question types (MCQ, essay, coding, etc.)",
+      "Supports timed and proctored exams",
+      "Integration with LMS platforms via API"
+    ],
+    "cons": [
+      "Steeper learning curve for administrators setting up assessments",
+      "Paid plans required for large-scale deployments",
+      "User interface can feel dated"
+    ]
+  },
+  {
+    "_id": "tool-51",
+    "name": "Quizgecko",
+    "description": "AI-driven quiz generator that creates practice questions and quizzes from any text or document you upload.",
+    "platforms": ["web"],
+    "bestFor": ["PRACTICE_TESTS", "MOCK_TESTS", "QUIZ_APPS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://quizgecko.com/static/images/logo.png",
+    "pros": [
+      "Generates quizzes from user-provided text in seconds",
+      "Customizable question types and difficulty levels",
+      "Instant feedback and performance summaries",
+      "Supports collaborative quiz creation"
+    ],
+    "cons": [
+      "Free tier has limited quiz generation credits",
+      "Accuracy of AI-generated questions may vary",
+      "Limited language support beyond English"
+    ]
+  },
+  {
+    "_id": "tool-52",
+    "name": "CertMage",
+    "description": "Platform offering extensive exam dumps, practice tests, and study resources for professional certifications (IT, finance, project management).",
+    "platforms": ["web"],
+    "bestFor": ["PRACTICE_TESTS", "MOCK_TESTS", "REFERENCE_BOOKS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://certmage.com/static/images/logo.png",
+    "pros": [
+      "Comprehensive database of certification exam questions and answers",
+      "Performance tracking and progress reports",
+      "Covers a wide range of professional certifications",
+      "Community forums for discussion and doubt-solving"
+    ],
+    "cons": [
+      "Relying on dumps may not prepare for real-world scenarios",
+      "Subscription required for full access to exam dumps",
+      "Not official material—quality can vary"
+    ]
+  },
+  {
+    "_id": "tool-53",
+    "name": "Google Calendar",
+    "description": "Time-management and scheduling tool integrated with Gmail and Google Workspace for creating events, setting reminders, and sharing calendars.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["STUDY_PLANNER", "TIME_MANAGEMENT", "PRODUCTIVITY_TOOLS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.google.com/images/icons/product/calendar-32.png",
+    "pros": [
+      "Seamless integration with Google Workspace apps",
+      "Multiple calendar layers for personal, academic, and shared schedules",
+      "Event reminders via email, push, and SMS",
+      "Supports recurring events and time zone conversion"
+    ],
+    "cons": [
+      "Limited customization of calendar views",
+      "Dependent on stable Google account access",
+      "Privacy concerns when sharing calendars publicly"
+    ]
+  },
+  {
+    "_id": "tool-54",
+    "name": "Plaky",
+    "description": "Daily planner app focused on productivity, allowing users to create schedules, track habits, and manage tasks with visual timelines.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["STUDY_PLANNER", "TIME_MANAGEMENT", "PRODUCTIVITY_TOOLS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://plaky.com/favicon.png",
+    "pros": [
+      "Visual timeline for daily planning",
+      "Habit tracking and reminders",
+      "Goal-setting features with progress visualization",
+      "Simple, user-friendly interface"
+    ],
+    "cons": [
+      "Fewer integrations compared to larger task apps",
+      "Limited free tier features",
+      "No desktop-native application—browser only"
+    ]
+  },
+  {
+    "_id": "tool-55",
+    "name": "Brainscape",
+    "description": "Adaptive flashcard platform that optimizes repetition based on user confidence ratings, helping learners retain information efficiently.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["FLASHCARDS", "REVISION_TOOLS", "QUIZ_APPS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://cdn.brainscape.com/img/favicon.png",
+    "pros": [
+      "Adaptive algorithms adjust to user confidence and performance",
+      "Clean, user-friendly interface across devices",
+      "Large public library of flashcards",
+      "Progress tracking and analytics"
+    ],
+    "cons": [
+      "Subscription required for full library access",
+      "Less customization compared to Anki",
+      "Limited integration with other study tools"
+    ]
+  },
+  {
+    "_id": "tool-56",
+    "name": "Cram",
+    "description": "Online flashcard platform offering a vast library of user-generated sets, multiple study modes, and spaced-repetition features.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["FLASHCARDS", "REVISION_TOOLS", "QUIZ_APPS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.cram.com/assets/img/logo.png",
+    "pros": [
+      "Large database of existing flashcard sets",
+      "Multiple study modes (memorize, test, match)",
+      "Spaced-repetition scheduling",
+      "Ease of sharing and collaboration"
+    ],
+    "cons": [
+      "Ads on free tier",
+      "Limited analytics compared to premium platforms",
+      "Interface can feel cluttered"
+    ]
+  },
+  {
+    "_id": "tool-57",
+    "name": "Kahoot!",
+    "description": "Game-based learning platform where educators create quizzes, polls, and interactive lessons that students answer in real time.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["QUIZ_APPS", "REVISION_TOOLS", "LIVE_CLASSES"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://play-lh.googleusercontent.com/kahoot-logo.png",
+    "pros": [
+      "Highly engaging, game-based format",
+      "Real-time feedback and leaderboards",
+      "Supports multimedia questions (images, video)",
+      "Integrates with LMS platforms"
+    ],
+    "cons": [
+      "Limited question types compared to other quiz platforms",
+      "Free tier limits participant count and advanced features",
+      "Not suitable for deep, text-based assessments"
+    ]
+  },
+  {
+    "_id": "tool-58",
+    "name": "Blitzit",
+    "description": "Productivity app offering focus modes, Pomodoro timers, and task tracking to help users reduce distractions and improve efficiency.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["PRODUCTIVITY_TOOLS", "TIME_MANAGEMENT", "POMODORO"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://blitzit.app/favicon.png",
+    "pros": [
+      "Built-in Pomodoro timer with focus mode",
+      "Detailed task analytics and reports",
+      "Customizable focus sessions and break schedules",
+      "Cross-device sync and offline support"
+    ],
+    "cons": [
+      "Requires subscription for advanced analytics",
+      "Learning curve to configure focus modes optimally",
+      "Mobile interface can feel cramped on smaller screens"
+    ]
+  },
+  {
+    "_id": "tool-59",
+    "name": "Clockify",
+    "description": "Time-tracking tool for individuals and teams, offering timesheets, reporting, and productivity analysis to optimize work and study sessions.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["PRODUCTIVITY_TOOLS", "TIME_MANAGEMENT", "TIME_MANAGEMENT"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://clockify.me/assets/images/clockify-logo.png",
+    "pros": [
+      "Unlimited users and projects on free tier",
+      "Detailed reporting and analytics",
+      "Billable rates, timesheets, and invoices",
+      "Cross-platform support with offline mode"
+    ],
+    "cons": [
+      "Free tier lacks advanced features like schedules and alerts",
+      "User interface can be overwhelming for new users",
+      "Limited integrations compared to premium time trackers"
+    ]
+  },
+  {
+    "_id": "tool-60",
+    "name": "RescueTime",
+    "description": "Personal analytics service that tracks time spent on applications and websites, providing insights and productivity reports.",
+    "platforms": ["web", "desktop", "mobile"],
+    "bestFor": ["PRODUCTIVITY_TOOLS", "TIME_MANAGEMENT"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.rescuetime.com/assets/images/rescuetime.svg",
+    "pros": [
+      "Automatic tracking of app and website usage",
+      "Detailed weekly and daily productivity reports",
+      "Goal-setting and distraction-blocking features",
+      "Offline tracking and mobile app support"
+    ],
+    "cons": [
+      "Requires granting full-access permissions to monitor activity",
+      "Limited customization of tracked categories in free tier",
+      "Privacy concerns if not configured properly"
+    ]
+  },
+  {
+    "_id": "tool-61",
+    "name": "Toggl Track",
+    "description": "Simple time-tracking application with one-click timers, reporting dashboards, and project management features for teams and individuals.",
+    "platforms": ["web", "desktop", "mobile"],
+    "bestFor": ["PRODUCTIVITY_TOOLS", "TIME_MANAGEMENT"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://toggl.com/favicon.ico",
+    "pros": [
+      "One-click time tracking with idle detection",
+      "Detailed reporting with charts and CSV export",
+      "Integrations with project management and calendar apps",
+      "Offline mode and cross-device sync"
+    ],
+    "cons": [
+      "Free tier limited to 5 team members and basic reporting",
+      "Advanced features (billable rates, project forecasts) behind paywall",
+      "No built-in Pomodoro timer"
+    ]
+  },
+  {
+    "_id": "tool-62",
+    "name": "Google Workspace",
+    "description": "Suite of cloud-based productivity and collaboration tools including Google Docs, Sheets, Slides, Drive, and Meet, ideal for team-based study and projects.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["COLLABORATION_TOOLS", "RESOURCE_AGGREGATORS", "CLASS_NOTES"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico",
+    "pros": [
+      "Real-time co-editing in Docs, Sheets, and Slides",
+      "15 GB free cloud storage (combined across Gmail, Drive)",
+      "Integration with Google Classroom and other educational tools",
+      "Built-in version history and commenting"
+    ],
+    "cons": [
+      "Requires Google account—privacy concerns for some users",
+      "Offline functionality limited compared to desktop apps",
+      "Advanced data manipulation features in Sheets are less powerful than Excel"
+    ]
+  },
+  {
+    "_id": "tool-63",
+    "name": "Zotero",
+    "description": "Open-source reference manager for collecting, organizing, citing, and sharing research sources, integrated with browser and word processors.",
+    "platforms": ["desktop", "web"],
+    "bestFor": ["RESOURCE_AGGREGATORS", "REFERENCE_BOOKS", "NOTE_TAKING"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.zotero.org/static/images/zotero-icon.svg",
+    "pros": [
+      "Automated capture of bibliographic information from websites",
+      "Integrates with LibreOffice, Microsoft Word, and Google Docs",
+      "Built-in PDF annotation and note-taking",
+      "Open-source with active community development"
+    ],
+    "cons": [
+      "Web library sync limited to 300 MB free storage",
+      "User interface can be intimidating for new users",
+      "Mobile app features are limited compared to desktop"
+    ]
+  },
+  {
+    "_id": "tool-64",
+    "name": "Mendeley",
+    "description": "Academic reference manager and social network that helps researchers organize PDFs, generate citations, and collaborate with colleagues.",
+    "platforms": ["desktop", "web", "mobile"],
+    "bestFor": ["RESOURCE_AGGREGATORS", "REFERENCE_BOOKS", "COLLABORATION_TOOLS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.mendeley.com/favicon.ico",
+    "pros": [
+      "Automatic metadata extraction from PDFs",
+      "Seamless citation generation in Word, LibreOffice, and BibTeX",
+      "Collaboration groups for sharing literature",
+      "Social features to discover related research"
+    ],
+    "cons": [
+      "Limited free storage (2 GB) for PDF sync",
+      "Occasional syncing issues between devices",
+      "Interface can feel cluttered with advanced features"
+    ]
+  },
+  {
+    "_id": "tool-65",
+    "name": "ResearchGate",
+    "description": "Academic social network for researchers to share papers, ask and answer questions, find collaborators, and track research impact.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["RESOURCE_AGGREGATORS", "COMMON_DISCUSSION_FORUM", "REFERENCE_BOOKS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.researchgate.net/assets/favicon.ico",
+    "pros": [
+      "Access to millions of research publications",
+      "Q&A section where researchers provide expert answers",
+      "Metrics for tracking citations and reads",
+      "Networking opportunities with other academics"
+    ],
+    "cons": [
+      "Full-text access often restricted by publisher paywalls",
+      "Spam or low-quality requests in some discussion threads",
+      "Profile metrics can be gamed or inflated"
+    ]
+  },
+  {
+    "_id": "tool-66",
+    "name": "Academia.edu",
+    "description": "Platform for academics to share research papers, follow other researchers, and get analytics on paper reads and citations.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["RESOURCE_AGGREGATORS", "COMMON_DISCUSSION_FORUM", "REFERENCE_BOOKS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.academia.edu/favicon.ico",
+    "pros": [
+      "Large repository of academic papers and preprints",
+      "Follow features to stay updated on specific researchers",
+      "Analytics showing who read and cited your work",
+      "Messaging feature for networking"
+    ],
+    "cons": [
+      "Full-text download often requires premium subscription",
+      "Ad-driven interface can be distracting",
+      "Quality varies—some uploaded work may not be peer-reviewed"
+    ]
+  },
+  {
+    "_id": "tool-67",
+    "name": "Otter.ai",
+    "description": "AI-powered transcription service that records voice conversations (lectures, meetings) and provides searchable, editable text notes.",
+    "platforms": ["web", "mobile", "desktop"],
+    "bestFor": ["VOICE_TO_NOTES", "CLASS_NOTES", "DOUBT_SOLVING"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://otter.ai/assets/images/favicon/favicon-32x32.png",
+    "pros": [
+      "Accurate, real-time transcription with speaker identification",
+      "Searchable transcripts with timestamps",
+      "Integrations with Zoom, Google Meet, and Microsoft Teams",
+      "Easy sharing and collaboration on transcripts"
+    ],
+    "cons": [
+      "Limited transcription minutes on free tier",
+      "Accuracy varies with audio quality and accents",
+      "Subscription required for advanced export formats"
+    ]
+  },
+  {
+    "_id": "tool-68",
+    "name": "Notability",
+    "description": "Multimedia note-taking app for iOS and macOS combining handwriting, typed text, sketches, audio recordings, and PDF annotation.",
+    "platforms": ["mobile", "desktop"],
+    "bestFor": ["NOTE_TAKING", "CLASS_NOTES", "VOICE_TO_NOTES"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://notability.com/favicon.ico",
+    "pros": [
+      "Seamless integration of audio recordings with handwritten notes",
+      "Smooth handwriting experience with Apple Pencil support",
+      "PDF import and annotation",
+      "Simple, focused interface for note creation"
+    ],
+    "cons": [
+      "Only available on iOS and macOS—no Windows or Android support",
+      "Paid app without a free tier",
+      "Limited collaboration features"
+    ]
+  },
+  {
+    "_id": "tool-69",
+    "name": "Focus Booster",
+    "description": "Pomodoro-based productivity tool that provides a simple timer interface, session tracking, and analytics to support focused work or study intervals.",
+    "platforms": ["web", "desktop", "mobile"],
+    "bestFor": ["POMODORO", "TIME_MANAGEMENT", "PRODUCTIVITY_TOOLS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://focusboosterapp.com/favicon.ico",
+    "pros": [
+      "Minimalist Pomodoro timer with straightforward UI",
+      "Session tracking and productivity reports",
+      "Desktop app for offline use",
+      "Suitable for individuals and small teams"
+    ],
+    "cons": [
+      "Free tier limited to 20 sessions per month",
+      "Basic feature set compared to all-in-one productivity suites",
+      "No built-in task manager—timer only"
+    ]
+  },
+  {
+    "_id": "tool-70",
+    "name": "Pomofocus",
+    "description": "Web-based Pomodoro timer that allows customization of work and break intervals, with simple analytics and task labeling.",
+    "platforms": ["web"],
+    "bestFor": ["POMODORO", "TIME_MANAGEMENT", "PRODUCTIVITY_TOOLS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://pomofocus.io/favicon.ico",
+    "pros": [
+      "No signup required—immediate use",
+      "Fully customizable Pomodoro intervals and break times",
+      "Simple analytics on completed sessions",
+      "Lightweight and distraction-free interface"
+    ],
+    "cons": [
+      "No offline or native desktop/mobile app",
+      "Basic feature set—no team collaboration",
+      "Data not saved across sessions without cookie preservation"
+    ]
+  },
+  {
+    "_id": "tool-71",
+    "name": "Be Focused",
+    "description": "Pomodoro timer and task manager for macOS and iOS that lets users create tasks, set timers, and track progress.",
+    "platforms": ["mobile", "desktop"],
+    "bestFor": ["POMODORO", "TIME_MANAGEMENT", "PRODUCTIVITY_TOOLS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://xwavesoft.com/favicon.ico",
+    "pros": [
+      "Native macOS and iOS integration with notifications",
+      "Task list and Pomodoro timer combined",
+      "Detailed productivity reports and history",
+      "Customizable work/break intervals"
+    ],
+    "cons": [
+      "Limited to Apple ecosystem—no Android or Windows support",
+      "Advanced features (cloud sync, CSV export) behind paywall",
+      "UI design feels dated compared to modern apps"
+    ]
+  },
+  {
+    "_id": "tool-72",
+    "name": "Course Hero",
+    "description": "Online learning platform offering course-specific study materials, textbook solutions, and 1-on-1 tutoring for a wide range of subjects.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["HOMEWORK_HELP", "DOUBT_SOLVING", "RESOURCE_AGGREGATORS"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.coursehero.com/favicon.ico",
+    "pros": [
+      "Large library of user-uploaded study documents",
+      "Step-by-step textbook solutions and explanations",
+      "1-on-1 tutoring sessions available",
+      "Relevant practice materials tailored to course codes"
+    ],
+    "cons": [
+      "Content quality varies—some documents are outdated or incorrect",
+      "Subscription required for full access to resources",
+      "Potential for academic dishonesty if misused"
+    ]
+  },
+  {
+    "_id": "tool-73",
+    "name": "Reddit (r/HomeworkHelp)",
+    "description": "Community-driven subreddit where students post homework questions and receive crowd-sourced answers from peers and experts.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["HOMEWORK_HELP", "COMMON_DISCUSSION_FORUM", "DOUBT_SOLVING"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.redditinc.com/assets/images/site/reddit-logo.png",
+    "pros": [
+      "Free, community-driven assistance",
+      "Wide range of subjects covered by volunteers",
+      "Quick responses for many straightforward questions",
+      "Discussion threads provide multiple perspectives"
+    ],
+    "cons": [
+      "Quality of answers can be inconsistent",
+      "Responses may not be detailed or step-by-step",
+      "Moderation can be uneven—spam or low-effort posts appear"
+    ]
+  },
+  {
+    "_id": "tool-74",
+    "name": "Stack Exchange",
+    "description": "Network of Q&A communities (e.g., Stack Overflow, Mathematics, Chemistry) where users ask specific technical or academic questions and receive peer-reviewed answers.",
+    "platforms": ["web", "mobile"],
+    "bestFor": ["COMMON_DISCUSSION_FORUM", "HOMEWORK_HELP", "DOUBT_SOLVING"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://cdn.sstatic.net/Sites/stackexchange/img/favicon.ico",
+    "pros": [
+      "High-quality, peer-reviewed answers",
+      "Reputation-based system ensures expert participation",
+      "Wide range of specialized communities",
+      "Searchable archive of previously answered questions"
+    ],
+    "cons": [
+      "Strict guidelines—new users may struggle to formulate acceptable questions",
+      "Less focus on step-by-step teaching—answers are often concise",
+      "Not ideal for very basic or broad conceptual questions"
+    ]
+  },
+  {
+    "_id": "tool-75",
+    "name": "SMMRY",
+    "description": "Summarizes any web page or article to help you grasp the key points quickly, making revision more efficient for lengthy study materials.",
+    "platforms": ["web", "chrome"],
+    "bestFor": ["PAGE_SUMMARIZATION", "FAST_REVISION", "NOTE_MAKING"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://smmry.com/favicon.ico",
+    "pros": [
+      "Quick, accurate summaries",
+      "Simple and clutter-free interface",
+      "Works with most online articles"
+    ],
+    "cons": [
+      "Limited customization for summaries",
+      "Doesn’t always capture technical details"
+    ]
+  },
+  {
+    "_id": "tool-76",
+    "name": "Liner",
+    "description": "Highlight and save sections from web articles and YouTube transcripts. Great for marking important concepts and making rapid summaries.",
+    "platforms": ["web", "chrome", "mobile"],
+    "bestFor": ["HIGHLIGHTING", "NOTE_MAKING", "YOUTUBE_BOOKMARKING"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://getliner.com/favicon.ico",
+    "pros": [
+      "Organizes highlights into folders",
+      "Shareable notes and highlights",
+      "Works on popular educational sites and YouTube"
+    ],
+    "cons": [
+      "Some features require a paid plan",
+      "Occasional sync issues"
+    ]
+  },
+  {
+    "_id": "tool-77",
+    "name": "Weava Highlighter",
+    "description": "Highlight, organize, and annotate exams and notes across web pages and PDF files—perfect for revisiting bookmarked YouTube video transcripts.",
+    "platforms": ["web", "chrome"],
+    "bestFor": ["WEB_HIGHLIGHTING", "CONTENT_ORGANIZATION", "STUDY_NOTES"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.weavatools.com/favicon.ico",
+    "pros": [
+      "Multi-color highlights for categorization",
+      "Works with PDFs and YouTube transcripts",
+      "Cloud-based notes & exports to docs"
+    ],
+    "cons": [
+      "PDF annotation can be slow",
+      "UI can feel overwhelming"
+    ]
+  },
+  {
+    "_id": "tool-78",
+    "name": "Tactiq Pins for Google Meet and YouTube",
+    "description": "Lets you take timestamped notes on YouTube videos and Google Meet recordings, so you can quickly refer to important segments during revision.",
+    "platforms": ["web", "chrome"],
+    "bestFor": ["YOUTUBE_VIDEO_NOTES", "TIMESTAMP_BOOKMARKING", "LECTURE_SUMMARIZATION"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://tactiq.io/assets/favicons/favicon-32x32.png",
+    "pros": [
+      "Timestamped bookmarks for fast access",
+      "Automatic meeting/video transcripts",
+      "Exports notes to Google Docs"
+    ],
+    "cons": [
+      "Some features restricted to premium",
+      "Works best for public videos and supported meetings"
+    ]
+  },
+  {
+    "_id": "tool-79",
+    "name": "VideoNotes",
+    "description": "Take time-synched notes while watching YouTube videos. Perfect for creating short notes from video lectures and revisiting key segments.",
+    "platforms": ["web", "chrome"],
+    "bestFor": ["YOUTUBE_VIDEO_NOTES", "NOTE_MAKING", "LECTURE_SUMMARIZATION"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.videonot.es/favicon.png",
+    "pros": [
+      "Automatic timestamping of notes",
+      "Google Drive integration for easy sharing",
+      "Simple, distraction-free interface"
+    ],
+    "cons": [
+      "Limited to YouTube and Coursera",
+      "Interface is basic"
+    ]
+  },
+  {
+    "_id": "tool-80",
+    "name": "Glasp",
+    "description": "Highlight and save ideas from articles and YouTube videos, then organize and review your highlights across platforms—ideal for research and revision.",
+    "platforms": ["web", "chrome", "mobile"],
+    "bestFor": ["HIGHLIGHTING", "CROSS-PLATFORM_ORGANIZATION", "YOUTUBE_BOOKMARKING"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://www.glasp.co/favicon.ico",
+    "pros": [
+      "Highlights text and YouTube video fragments",
+      "Community feed for shared notes",
+      "Sort and filter highlights easily"
+    ],
+    "cons": [
+      "Limited annotation tools",
+      "Community features may distract"
+    ]
+  },
+  {
+    "_id": "tool-81",
+    "name": "Kami",
+    "description": "A powerful PDF and document annotation tool. Great for highlighting and taking notes on study material and practice papers.",
+    "platforms": ["web", "chrome"],
+    "bestFor": ["DIGITAL_NOTE_TAKING", "PDF_ANNOTATION", "STUDY_ORGANIZATION"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://static.kamihq.com/favicon.ico",
+    "pros": [
+      "Real-time collaboration and annotation",
+      "Easy integration with Google Drive and Classroom",
+      "Supports drawing and equation tools for STEM subjects"
+    ],
+    "cons": [
+      "Free version is limited",
+      "May lag with large files"
+    ]
+  },
+  {
+    "_id": "tool-82",
+    "name": "YouTube Summary with ChatGPT",
+    "description": "Summarizes educational YouTube videos using advanced AI, making revision and note-making much easier for lengthy lectures.",
+    "platforms": ["web", "chrome"],
+    "bestFor": ["LECTURE_SUMMARIZATION", "REVISION", "NOTE_MAKING"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://chrome.google.com/webstore/static/img/app_default_128.png",
+    "pros": [
+      "Quickly obtain summaries of long videos",
+      "Ideal for reviewing 1-hour+ lectures",
+      "Works across most educational channels"
+    ],
+    "cons": [
+      "Summaries may miss context or details",
+      "Dependent on third-party AI reliability"
+    ]
+  },
+  {
+    "_id": "tool-83",
+    "name": "Equatio",
+    "description": "Helps you type, handwrite or speak math equations and formulas directly into Google Docs, Forms, or Slides. Perfect for STEM exam preparation.",
+    "platforms": ["web", "chrome"],
+    "bestFor": ["MATH_FORMULA_INPUT", "DIGITAL_NOTE_TAKING", "EQUATION_CREATION"],
+    "createdAt": "2025-06-02T00:00:00.000Z",
+    "updatedAt": "2025-06-02T00:00:00.000Z",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/texthelp-website.appspot.com/o/website%2Ffh-favicon.ico?alt=media",
+    "pros": [
+      "Convert handwritten math to digital text",
+      "Speech-to-math input",
+      "Intuitive editor for equations"
+    ],
+    "cons": [
+      "Premium features require subscription",
+      "Occasional handwriting recognition errors"
+    ]
+  }
+]
